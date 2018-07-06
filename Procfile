@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT spgharti_lipipoint_298.wsgi:application
